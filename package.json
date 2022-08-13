@@ -1,0 +1,23 @@
+{
+  "name": "ens-migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-json-modules index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "files-from-path": "^0.2.6",
+    "fs": "^0.0.1-security",
+    "nft.storage": "^7.0.0",
+    "node-fetch": "^3.2.10",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
