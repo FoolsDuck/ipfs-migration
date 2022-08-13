@@ -48,4 +48,3 @@ const boilerplate = (config) => {
 };
 
 export default boilerplate;
-// module.exports.boilerplate = boilerplate;
