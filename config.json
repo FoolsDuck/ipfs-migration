@@ -1,8 +1,8 @@
 {
-    "url": "https://topshorter.com",
-    "sitename": "TopShorter",
-    "title": "TopShorter Blockchain & Web3 Development",
-    "description": "topshorter.eth developing the future of blockchain and Web3 with some based dev's techniques.",
-    "image": "./images/ts_featured.png", 
-    "favicon": "./images/ts_favicon.png"
+    "url": "https://<YOUR_DOMAIN>",
+    "sitename": "<SITE_NAME>",
+    "title": "<SITE_TITLE>",
+    "description": "<SITE_DESCRIPTION>",
+    "image": "<FEATURED_IMAGE>", 
+    "favicon": "<FAVICON>"
 }
